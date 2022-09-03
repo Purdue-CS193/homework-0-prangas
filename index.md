@@ -1,6 +1,5 @@
-Prithvi's First CS193 HW
+# Prithvi's First CS193 HW
 
-This is my website
 
 ### Markdown
 
