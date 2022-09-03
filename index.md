@@ -9,6 +9,7 @@ Information about Markdown
 ```markdown
 Syntax highlighted code block
 
+Header Types
 # Header 1
 ## Header 2
 ### Header 3
