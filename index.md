@@ -1,4 +1,4 @@
-Prithvi's Page
+Prithvi's First CS193 HW
 
 This is my website
 
@@ -14,8 +14,9 @@ Header Types
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Coding
+- Memes
+- Homework
 
 1. Numbered
 2. List
