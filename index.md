@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+Prithvi's Page
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my website
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Information about Markdown
 
 ```markdown
 Syntax highlighted code block
 
-# Hello
-## Welcome
-### Hi
+# Header 1
+## Header 2
+### Header 3
 
-- This is the first item on my bulleted list
-- This is the second item on my bulleted list
+- Bulleted
+- List
 
-1. Number 1 on the numbered list
-2. Number 2 on the numbered list
+1. Numbered
+2. List
 
 **Bold** and _Italic_ and `Code` text
 
